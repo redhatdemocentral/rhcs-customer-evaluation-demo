@@ -71,7 +71,7 @@ Released versions
 -----------------
 See the tagged releases for the following versions of the product:
 
-- v1.0 - JBoss BPM Suite 6.4.0 and JBoss EAP 7.0.0 with OpenShift genereated routes and service URLs.
+- v1.0 - JBoss BPM Suite 6.4.0 and JBoss EAP 7.0.0 with customer evaluation deployed on any OCP.
 
 ![Cloud Pod](https://raw.githubusercontent.com/redhatdemocentral/rhcs-customer-evaluation-demo/master/docs/demo-images/rhcs-customereval-pod.png)
 
