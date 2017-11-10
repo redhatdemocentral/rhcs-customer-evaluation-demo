@@ -1,7 +1,7 @@
 App Dev Cloud with Customer Evaluation Demo
 ===========================================
-This demo is to install JBoss BPM Suite Rewards Demo in the Cloud based on leveraging the OpenShift Container Platform (OCP)
-It delivers a fully functioning JBoss BPM Employee Rewards example containerized on OCP.
+This demo is to install JBoss BPM Suite Customer Evaluation Demo in the Cloud based on leveraging the OpenShift Container Platform (OCP)
+It delivers a fully functioning financial process for customer evaluation containerized on OCP.
 
 The customer evaluation project demonstrates the BPM Suite process integration with rules.
 It is a straight through process (STP).
@@ -54,13 +54,17 @@ examine the rule, process, and data model from within the various product compon
 
 Supporting Articles
 -------------------
-- [How to Optimize Existing IT by Modernizing HR Processes](http://www.schabell.org/2017/07/how-to-optimize-existing-it-modernizing-hr-processes.html)
+- [7 Steps to Your First Process with JBoss BPM Suite Starter	Kit](http://www.schabell.org/2015/08/7-steps-first-process-jboss-bpmsuite-starter-kit.html)
 
-- [App Dev in the Cloud - HR Employee Rewards Application on OpenShift](http://www.schabell.org/2017/01/appdev-in-cloud-hr-employee-rewards-app-openshift.html)
+- [3 shockingly easy ways into JBoss rules, events, planning & BPM](http://www.schabell.org/2015/01/3-shockingly-easy-ways-into-jboss-brms-bpmsuite.html)
 
-- [How to put the JBoss HR Employee Rewards project into the Cloud](http://www.schabell.org/2016/05/howto-put-jboss-hr-employee-rewards-into-cloud.html)
+- [Jump Start Your Rules, Events, Planning and BPM Today](http://www.schabell.org/2014/12/jump-start-rules-events-planning-bpm-today.html)
 
-- [Build rewards demo project with online workshop.](http://bpmworkshop-onthe.rhcloud.com)
+- [5 Handy Tips From JBoss BPM Suite For Release 6.0.3](http://www.schabell.org/2014/10/5-handy-tips-from-jboss-bpmsuite-release-603.html)
+
+- [Launching Into the Clouds With 2 New OpenShift Primer bpmPaaS Quickstarts](http://www.schabell.org/2014/10/launching-into-clouds-with-2-new-openshift-primer-bpmpaas-quickstarts.html)
+
+- [Red Hat JBoss BPM Suite - all product demos updated for version 6.0.2.GA release](http://www.schabell.org/2014/07/redhat-jboss-bpmsuite-product-demos-6.0.2-updated.html)
 
 
 Released versions
@@ -69,9 +73,9 @@ See the tagged releases for the following versions of the product:
 
 - v1.0 - JBoss BPM Suite 6.4.0 and JBoss EAP 7.0.0 with OpenShift genereated routes and service URLs.
 
-![Cloud Pod](https://raw.githubusercontent.com/redhatdemocentral/rhcs-customer-evaluation-demo/master/docs/demo-images/rhcs-rewards-pod.png)
+![Cloud Pod](https://raw.githubusercontent.com/redhatdemocentral/rhcs-customer-evaluation-demo/master/docs/demo-images/rhcs-customereval-pod.png)
 
-![Cloud Build](https://raw.githubusercontent.com/redhatdemocentral/rhcs-customer-evaluation-demo/master/docs/demo-images/rhcs-rewards-build.png)
+![Cloud Build](https://raw.githubusercontent.com/redhatdemocentral/rhcs-customer-evaluation-demo/master/docs/demo-images/rhcs-customereval-project.png)
 
 ![Process](https://raw.githubusercontent.com/redhatdemocentral/rhcs-customer-evaluation-demo/master/docs/demo-images/process.png)
 
