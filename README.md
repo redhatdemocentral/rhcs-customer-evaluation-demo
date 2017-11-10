@@ -77,7 +77,5 @@ See the tagged releases for the following versions of the product:
 
 ![Cloud Build](https://raw.githubusercontent.com/redhatdemocentral/rhcs-customer-evaluation-demo/master/docs/demo-images/rhcs-customereval-project.png)
 
-![Process](https://raw.githubusercontent.com/redhatdemocentral/rhcs-customer-evaluation-demo/master/docs/demo-images/process.png)
-
 ![Cloud Suite](https://raw.githubusercontent.com/redhatdemocentral/rhcs-customer-evaluation-demo/master/docs/demo-images/rhcs-arch.png)
 
