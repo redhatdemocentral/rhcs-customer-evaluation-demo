@@ -13,6 +13,8 @@ Install Customer Evaluation on OpenShift
 
   - [OCP Install Demo](https://github.com/redhatdemocentral/ocp-install-demo)
 
+  - [Red Hat Container Development Kit (CDK) using Minishift](https://developers.redhat.com/products/cdk/overview)
+
   - or your own OpenShift installation.
 
 2. [Download and unzip this demo.](https://github.com/redhatdemocentral/rhcs-customer-evaluation-demo/archive/master.zip)
@@ -32,14 +34,7 @@ Log in to customer evaluation application to start exploring (the address will b
   - OCP example: http://rhcs-customereval-demo-appdev-in-cloud.192.168.99.100.nip.io/business-central ( u:erics / p:bpmsuite1! )
 
 
-Note before running demo:
--------------------------
-This project can be installed on any OpenShift platform, such as OpenShift Container Platform.
-It's possible to install it on any available installation by pointing this installer to an OpenShift IP address:
-```
-  $ ./init.sh IP
-```
-
+Notes
 -----
 
 If for any reason the installation breaks or you want a new installation, just remove the project entry in the OpenShift console and re-run the installation.
@@ -70,6 +65,8 @@ Supporting Articles
 Released versions
 -----------------
 See the tagged releases for the following versions of the product:
+
+- v1.1 - JBoss BPM Suite 6.4.0 and JBoss EAP 7.0.0 with customer evaluation deployed and available on CDK with Minishift.
 
 - v1.0 - JBoss BPM Suite 6.4.0 and JBoss EAP 7.0.0 with customer evaluation deployed on any OCP.
 
