@@ -49,6 +49,8 @@ examine the rule, process, and data model from within the various product compon
 
 Supporting Articles
 -------------------
+- [AppDev in the Cloud with Financial Customer Evaluation Solution](http://www.schabell.org/2017/11/appdev-cloud-with-financial-customer-evaluation-solution.html)
+
 - [7 Steps to Your First Process with JBoss BPM Suite Starter	Kit](http://www.schabell.org/2015/08/7-steps-first-process-jboss-bpmsuite-starter-kit.html)
 
 - [3 shockingly easy ways into JBoss rules, events, planning & BPM](http://www.schabell.org/2015/01/3-shockingly-easy-ways-into-jboss-brms-bpmsuite.html)
