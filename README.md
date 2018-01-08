@@ -1,5 +1,5 @@
-App Dev Cloud with Financial Serivces Customer Evaluation Demo
-==============================================================
+App Dev Cloud with Financial Serivces Customer Evaluation
+=========================================================
 This demo is to install a financial services customer evaluation process driven application in the Cloud based on leveraging the OpenShift Container Platform (OCP). It delivers a fully functioning financial process for customer evaluation containerized on OCP.
 
 The customer evaluation project demonstrates the BPM Suite process integration with rules.
