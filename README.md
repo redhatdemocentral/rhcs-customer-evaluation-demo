@@ -1,14 +1,13 @@
-App Dev Cloud with Customer Evaluation Demo
-===========================================
-This demo is to install JBoss BPM Suite Customer Evaluation Demo in the Cloud based on leveraging the OpenShift Container Platform (OCP)
-It delivers a fully functioning financial process for customer evaluation containerized on OCP.
+App Dev Cloud with Financial Serivces Customer Evaluation Demo
+==============================================================
+This demo is to install a financial services customer evaluation process driven application in the Cloud based on leveraging the OpenShift Container Platform (OCP). It delivers a fully functioning financial process for customer evaluation containerized on OCP.
 
 The customer evaluation project demonstrates the BPM Suite process integration with rules.
 It is a straight through process (STP).
 
 
-Install Customer Evaluation on OpenShift
-----------------------------------------
+Install FSI Customer Evaluation on OpenShift
+--------------------------------------------
 1. First ensure you have an OpenShift container based installation, such as one of the following installed first:
 
   - [OCP Install Demo](https://github.com/redhatdemocentral/ocp-install-demo)
