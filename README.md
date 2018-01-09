@@ -8,7 +8,7 @@ It is a straight through process (STP).
 
 Install FSI Customer Evaluation on OpenShift
 --------------------------------------------
-1. First ensure you have an OpenShift container based installation, such as one of the following installed first:
+1. (OPTIONAL) First ensure you have an OpenShift container based installation, such as one of the following installed first:
 
   - [OCP Install Demo](https://github.com/redhatdemocentral/ocp-install-demo)
 
