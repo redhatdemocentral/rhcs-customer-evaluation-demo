@@ -1,3 +1,6 @@
+Update: June 2018 moved to [Gitlab](https://gitlab.com/redhatdemocentral/rhcs-customer-evaluation-demo).
+
+
 App Dev Cloud with Financial Serivces Customer Evaluation
 =========================================================
 This demo is to install a financial services customer evaluation process driven application in the Cloud based on leveraging the OpenShift Container Platform (OCP). It delivers a fully functioning financial process for customer evaluation containerized on OCP.
